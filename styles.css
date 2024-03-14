@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+    color: red;
+
+}
+
+body {
+    overflow-x: hidden; /* hides the vertical bar */ 
+}
+
+.head2 { 
+    position: fixed;
+    font-family: 'Roboto', sans-serif; 
+    left: 110rem;
+    bottom: 54rem;
+}
+
+.img {
+    position: fixed; 
+    height: 20rem;
+    width: 20rem;
+    top: 20rem;
+    left: 42%
+}
+
+.head1 {
+    position: fixed;
+    font-family: 'Roboto', sans-serif; 
+    left: 100rem;
+    bottom: 54rem;
+}
+
+.logo { 
+    position: fixed;
+    height: 10rem;
+    width: 10rem;
+    bottom: 51rem;
+    left: 72.5%
+}
+
+.main_header { 
+    font-family: 'Open Sans';
+}
